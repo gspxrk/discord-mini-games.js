@@ -1,0 +1,20 @@
+module.exports = {
+  RockPaperScissors: require('./src/functions/rps'),
+  GuessTheNumber: require('./src/functions/gtn'),
+  TicTacToe: require('./src/functions/ttt'),
+  RepeatTheColor: require('./src/functions/rtc'),
+  CoinFlip: require('./src/functions/cf'),
+  OddOneOut: require('./src/functions/ooo'),
+  Connect4: require('./src/functions/c4'),
+  Trivia: require('./src/functions/trivia'),
+  MathsMagic: require('./src/functions/mm'),
+  GuessThePokemon: require('./src/functions/gtp'),
+  GuessTheFlag: require('./src/functions/gtf'),
+  FindTheStone: require('./src/functions/fts'),
+  Dare: require('./src/functions/dare'),
+  Truth: require('./src/functions/truth'),
+  Paranoia: require('./src/functions/paranoia'),
+  WouldYouRather: require('./src/functions/wyr'),
+  Joke: require('./src/functions/joke'),
+  EightBall: require('./src/functions/8ball')
+};
